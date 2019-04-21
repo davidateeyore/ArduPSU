@@ -2,6 +2,8 @@
 
 ## by dt 29MAY2018
 
+21APR2019 - just testing output  from MarkdownPad 2 - it all seems to work OK!
+
 ### Ver 0.2
 
 * howto
