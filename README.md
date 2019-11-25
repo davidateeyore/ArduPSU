@@ -12,3 +12,6 @@ My display module PCB's arrived, but required a new version to suit the little L
 the code still requires some further tweaking to improve the voltage and current display updating.. 
 
 schematics/circuit diagrams (I have to redraw them to make them readable!) and pictures to follow..
+
+Update:
+The pictiva displays are now working after a second go at the interface pcb, but would take up too much room in the target PSU case, next project possibly. 
