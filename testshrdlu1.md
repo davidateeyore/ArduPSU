@@ -3,6 +3,7 @@
 ## by dt 29MAY2018
 
 21APR2019 - just testing output  from MarkdownPad 2 - it all seems to work OK!
+19JUL2020 - minor edits..
 
 ### Ver 0.2
 
@@ -11,7 +12,7 @@
 	- replace screw top
 	- light blue touch paper and retire rapidly!
 
-refer to https://gerbilator.org/bang
+refer to https://gerbilator.org/bang (not visible to outside world at present..thanks NBN, iiNet NOT!)
 
 
 ```c++
