@@ -18,3 +18,6 @@ schematics/circuit diagrams (I have to redraw them to make them readable!) and p
 
 Update:
 The pictiva displays are now working after a second go at the interface pcb, but would take up too much room in the target PSU case, next project possibly. 
+Update 2:
+considering changes to the analog side to provide the 5V to Arduino/Display board from a small IC based buck converter PCB (could add extra RFI to the DC output, however..)
+
