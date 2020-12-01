@@ -23,5 +23,5 @@ Update 2:
 considering changes to the analog side to provide the 5V to Arduino/Display board from a small IC based buck converter PCB (could add extra RFI to the DC output, however..)
 
 Update 3:
-Have now made a version of the PCB to accomodate 8x2 OLEDs (Parallel I/face from VISHAY via Farnell/Element14) much brighter green display on black background. Now working on new front panel in OpenSCAD.
+Have now made a version of the PCB to accomodate 8x2 OLEDs (Parallel I/face from VISHAY via Farnell/Element14) much brighter green display on black background. Now working on new front panel in OpenSCAD for a newer box with similar circuitry.
 
