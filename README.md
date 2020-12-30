@@ -25,3 +25,6 @@ considering changes to the analog side to provide the 5V to Arduino/Display boar
 Update 3:
 Have now made a version of the PCB to accomodate 8x2 OLEDs (Parallel I/face from VISHAY via Farnell/Element14) much brighter green display on black background. Now working on new front panel in OpenSCAD for a newer box with similar circuitry.
 
+Update 4:
+Have decided to put the OLED display PCB in a newer box; more room to clear terminals..Now redoing original unit with LCD and fixing up -ve supply to pull LM317K down to zero volts output..
+
