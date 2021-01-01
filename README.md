@@ -28,3 +28,5 @@ Have now made a version of the PCB to accomodate 8x2 OLEDs (Parallel I/face from
 Update 4:
 Have decided to put the OLED display PCB in a newer box; more room to clear terminals..Now redoing original unit with LCD and fixing up -ve supply to pull LM317K down to zero volts output..
 
+Update 5: [Happy New Year]
+Have located and ordered some cheaper 8x2 OLEDs from AliExpress; will rework the PCB to fit lower profile cases
