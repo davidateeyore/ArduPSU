@@ -30,3 +30,6 @@ Have decided to put the OLED display PCB in a newer box; more room to clear term
 
 Update 5: [Happy New Year]
 Have located and ordered some cheaper 8x2 OLEDs from AliExpress; will rework the PCB to fit lower profile cases.. The schematic/circuit diagrams are more of a mess than I remembered, they will need redrawing!
+
+Update 6:
+The provision of -10V to the 1.24V reference (to bias the LM317K to go down to 0V at output is proving more fiddly than I thought with a single secondary winding transformer...
