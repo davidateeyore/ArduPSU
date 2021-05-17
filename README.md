@@ -33,3 +33,6 @@ Have located and ordered some cheaper 8x2 OLEDs from AliExpress; will rework the
 
 Update 6:
 The provision of -10V to the 1.24V reference (to bias the LM317K to go down to 0V at output is proving more fiddly than I thought with a single secondary winding transformer...
+
+Update 7:
+Have overcome the supply of -10V issue; 2 elcaps and a bridge rectifier and output elcap..must devote more time to this (stop playing with Raspberry Pi PiCO board!)
