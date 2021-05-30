@@ -36,3 +36,6 @@ The provision of -10V to the 1.24V reference (to bias the LM317K to go down to 0
 
 Update 7:
 Have overcome the supply of -10V issue; 2 elcaps and a bridge rectifier and output elcap..must devote more time to this (stop playing with Raspberry Pi PiCO board!)
+
+Update 8:
+The -10V supply is working properly, 10V zener to regulate the the input to LMV431 1.24 v ref device. An LM7805 is on a separate board to provide +5V to the ArduPSU module and the ACS712 current sensor. The whole contraption has been shoehorned into its original little case for a couple of weeks of testing; already some nonlinearity of the current sensor has been noticed..
