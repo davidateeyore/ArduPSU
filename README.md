@@ -39,3 +39,6 @@ Have overcome the supply of -10V issue; 2 elcaps and a bridge rectifier and outp
 
 Update 8:
 The -10V supply is working properly, 10V zener to regulate the the input to LMV431 1.24 v ref device. An LM7805 is on a separate board to provide +5V to the ArduPSU module and the ACS712 current sensor. The whole contraption has been shoehorned into its original little case for a couple of weeks of testing; already some nonlinearity of the current sensor has been noticed..
+
+Update 9:
+the unit is still working quite well, have enough bits for another one but a PCB for the PSU internals apart from the display Arduino is on the cards!
