@@ -42,3 +42,7 @@ The -10V supply is working properly, 10V zener to regulate the the input to LMV4
 
 Update 9:
 the unit is still working quite well, have enough bits for another one but a PCB for the PSU internals apart from the display Arduino is on the cards!
+
+Update 10:
+The voltmeter works OK, but the current detector is not quite right, needs calibrating for a linear current reading..
+
